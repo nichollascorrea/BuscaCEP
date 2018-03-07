@@ -1,0 +1,8 @@
+c:\users\nicho\source\repos\BuscaCEP-Exemplo\BuscaCEP-Exemplo\bin\Debug\BuscaCEP-Exemplo.exe.config
+c:\users\nicho\source\repos\BuscaCEP-Exemplo\BuscaCEP-Exemplo\bin\Debug\BuscaCEP-Exemplo.exe
+c:\users\nicho\source\repos\BuscaCEP-Exemplo\BuscaCEP-Exemplo\bin\Debug\BuscaCEP-Exemplo.pdb
+c:\users\nicho\source\repos\BuscaCEP-Exemplo\BuscaCEP-Exemplo\bin\Debug\BuscaCEP.dll
+c:\users\nicho\source\repos\BuscaCEP-Exemplo\BuscaCEP-Exemplo\obj\Debug\BuscaCEP-Exemplo.csprojResolveAssemblyReference.cache
+c:\users\nicho\source\repos\BuscaCEP-Exemplo\BuscaCEP-Exemplo\obj\Debug\BuscaCEP-Exemplo.csproj.CoreCompileInputs.cache
+c:\users\nicho\source\repos\BuscaCEP-Exemplo\BuscaCEP-Exemplo\obj\Debug\BuscaCEP-Exemplo.exe
+c:\users\nicho\source\repos\BuscaCEP-Exemplo\BuscaCEP-Exemplo\obj\Debug\BuscaCEP-Exemplo.pdb
